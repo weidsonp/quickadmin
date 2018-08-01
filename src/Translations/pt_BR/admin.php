@@ -50,6 +50,26 @@ return [
   // users-controller
   'users-controller-successfully_created' => 'Usuário foi criado com êxito!',
   'users-controller-successfully_updated' => 'Usuário foi atualizado com sucesso !',  
-  'users-controller-successfully_deleted' => 'Usuário foi excluído com sucesso!',   
+  'users-controller-successfully_deleted' => 'Usuário foi excluído com sucesso!',  
+  
+   // roles-edit
+  'roles-edit-edit_role' => 'Alteração de Papeis',
+  'roles-edit-name' => 'Nome',
+  'roles-edit-name_placeholder' => 'Nome',
+  'roles-edit-title' => 'Papel',
+  'roles-edit-btnupdate' => 'Alterar',
 
+  // roles-index
+  'roles-index-add_new' => 'Incluir',  
+  'roles-index-roles_list' => 'Lista de Papeis',
+  'roles-index-title' => 'Nome',
+  'roles-index-edit' => 'Editar',
+  'roles-index-delete' => 'Excluir',
+  'roles-index-are_you_sure' => 'Tem certeza?',
+  'roles-index-no_entries_found' => 'Nenhum registro encontrado',
+
+  // roles-controller
+  'roles-controller-successfully_created' => 'Papel foi criado com êxito!',
+  'roles-controller-successfully_updated' => 'Papel foi atualizado com sucesso !',  
+  'roles-controller-successfully_deleted' => 'Papel foi excluído com sucesso!',     
 ];
