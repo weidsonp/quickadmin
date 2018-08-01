@@ -51,5 +51,11 @@ return [
   'users-controller-successfully_created' => 'Usuário foi criado com êxito!',
   'users-controller-successfully_updated' => 'Usuário foi atualizado com sucesso !',  
   'users-controller-successfully_deleted' => 'Usuário foi excluído com sucesso!',   
-
+  
+  // roles-create
+  'roles-create-create_role' => 'Inclusão de Papel',
+  'roles-create-name' => 'Nome',
+  'roles-create-title_placeholder' => 'Nome',  
+  'roles-create-title' => 'Papel',
+  'roles-create-btncreate' => 'Incluir', 
 ];
