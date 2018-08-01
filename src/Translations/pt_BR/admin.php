@@ -11,6 +11,7 @@ return [
   'partials-sidebar-menu' => 'Menu',
   'partials-sidebar-users' => 'Usuários',  
   'partials-sidebar-user-actions' => 'Ações dos Usuários',
+  'partials-sidebar-roles' => 'Papeis dos Usuários',
   'partials-sidebar-logout' => 'Desconectar',
 
   // admin-partials-topbar
